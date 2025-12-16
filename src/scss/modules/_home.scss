@@ -54,5 +54,27 @@ video {
   align-items: center;
   margin-left: 50px;
   margin-right: 50px;
-  margin-bottom: 50px;
+}
+.text-section {
+  display: flex;
+  align-items: flex-end;
+  gap: 20px;
+  color: #fff;
+  font-family: Afacad;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 120px;
+}
+.card-container {
+  width: 100vw;
+  height: 1450px;
+
+  border-radius: 67px;
+  background-image: url("../img/bg.png");
+  background-size: cover;
+  overflow: hidden;
 }
