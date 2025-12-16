@@ -1,0 +1,58 @@
+.contact {
+  display: flex;
+  gap: 65px;
+  justify-content: right;
+  align-items: end;
+  margin-right: 100px;
+  margin-bottom: 50px;
+}
+video {
+  margin-left: 20px;
+  max-width: calc(100vw - 40px);
+}
+.title {
+  color: #fff;
+  text-align: center;
+  font-family: Thency;
+  font-size: 36px;
+
+  font-weight: 400;
+  margin-top: 25px;
+  letter-spacing: 8.28px;
+}
+.btn {
+  background: none;
+
+  padding: 40px 130px 40px 130px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  border: 1px solid #fff;
+  color: #fff;
+  font-family: "ITC Avant Garde Gothic Pro";
+  font-size: 22px;
+  font-weight: 500;
+}
+.btn-2 {
+  background: none;
+  display: flex;
+  padding: 80px 130px 80px 130px;
+  justify-content: center;
+  align-items: center;
+  gap: 33px;
+  border-radius: 20px;
+  border: 1px solid #fff;
+  color: #fff;
+  font-family: "ITC Avant Garde Gothic Pro";
+  font-size: 22px;
+
+  font-weight: 500;
+}
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
