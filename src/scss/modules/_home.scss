@@ -3,20 +3,20 @@
   gap: 65px;
   justify-content: right;
   align-items: end;
-  margin-right: 100px;
-  margin-bottom: 50px;
+  margin-right: 10vw;
+  margin-bottom: 5vw;
 }
 video {
-  margin-left: 20px;
-  max-width: calc(100vw - 40px);
+  margin-left: 2vw;
+  max-width: calc(100vw - 4vw);
 }
 .title {
   color: #fff;
   text-align: center;
   font-family: Thency;
-  font-size: 36px;
+  font-size: 3.6vw;
   font-weight: 400;
-  margin-top: 25px;
+  margin-top: 2.5vw;
   letter-spacing: 8.28px;
 }
 .btn {
@@ -49,8 +49,9 @@ video {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  margin-bottom: 5vw;
 }
 .text-section {
   display: flex;
@@ -64,11 +65,10 @@ video {
   line-height: normal;
   margin-left: 10vw;
   margin-right: 10vw;
-  margin-bottom: 120px;
+  margin-bottom: 12vw;
 }
 .card-container {
   width: 100vw;
-  height: 1450px;
 
   border-radius: 67px;
   background-image: url("../img/bg.png");
